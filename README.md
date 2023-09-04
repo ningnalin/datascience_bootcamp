@@ -13,3 +13,5 @@ All about my data projects in the data science bootcamp07.
 - Dashboard
   - Looker Studio Report : https://bit.ly/3qt0HYQ
   - Tableau Public Dashboard : https://tabsoft.co/3qowHNT
+
+✅ Verified Badge : https://bit.ly/VerifiedBadge_DataRockie
