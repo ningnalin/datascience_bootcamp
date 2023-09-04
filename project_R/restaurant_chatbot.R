@@ -1,5 +1,5 @@
 fastfood_bot <- function(){
-  print("Welcome to R Reaturant.")
+  print("Welcome to R Restaurant.")
   
   customer <- readline("What is your name? : ")
   print(paste("Hello!", customer))
