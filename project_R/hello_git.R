@@ -1,3 +1,3 @@
 print("Hello Git")
 
-print("Push Push")
+print("Select & Commit & Push ")
